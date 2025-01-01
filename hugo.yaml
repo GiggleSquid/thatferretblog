@@ -31,11 +31,12 @@ menu:
       weight: 40
 
 params:
+  env: production
   title: That Ferret Blog
   description: "A blog for information, sources, overviews, & opinions for all things ferret related"
   keywords: [Blog, Ferret, Mustelid, Mustelidae]
   author: Bunny
-  DateFormat: "1st January, 2025"
+  DateFormat: "2 January, 2006"
   copyrightStartYear: 2025
   defaultTheme: auto
   disableThemeToggle: false
