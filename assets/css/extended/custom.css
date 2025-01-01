@@ -1,0 +1,42 @@
+body {
+  background: var(--code-bg);
+}
+
+.nav .logo a {
+  color: var(--theme);
+}
+
+#menu a {
+  transition: all 300ms ease;
+}
+
+#menu a:hover {
+  color: var(--theme);
+}
+
+.home-info {
+  text-align: center;
+}
+
+.post-entry {
+  transition: filter 300ms ease;
+}
+
+.dark .post-entry:hover {
+  filter: brightness(1.1);
+}
+
+.post-entry:hover {
+  filter: brightness(0.9);
+}
+
+.footer a:hover,
+.top-link:hover {
+  transition: all 600ms ease;
+  color: var(--theme)
+}
+
+.footer a:hover {
+  transition: all 600ms ease;
+  border-bottom: 1px solid var(--theme)
+}

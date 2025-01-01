@@ -1,0 +1,91 @@
+baseURL: "https://thatferret.blog/"
+languageCode: "en-uk"
+title: "That Ferret Blog"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 30
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 40
+
+params:
+  title: That Ferret Blog
+  description: "A blog for information, sources, overviews, & opinions for all things ferret related"
+  keywords: [Blog, Ferret, Mustelid, Mustelidae]
+  author: Bunny
+  DateFormat: "1st January, 2025"
+  copyrightStartYear: 2025
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  # home-info mode
+  homeInfoParams:
+    Title: Hi, I'm <span style="color:var(--theme)">Bunny</span> ฅ՞•ﻌ•՞ฅ
+    Content: "This blog aims to provide information, sources, overviews, & opinions for all things ferret related."
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  ShareButtons: ["reddit", "facebook", "whatsapp", "telegram"]
+
+  socialIcons:
+    - name: linktree
+      url: "https://linktr.ee/thatbunny"
+    - name: instagram
+      url: "https://www.instagram.com/bootsntoots_/profilecard/?igsh=eGE1dWJpY3Nsa2N3"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+  footer:
+    license: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">The content of <a property="dct:title" rel="cc:attributionURL" href="https://thatferret.blog">That Ferret Blog</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://linktr.ee/thatbunny">Bunny</a> & <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/GiggleSquid">GiggleSquid</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:16px!important;margin-left:3px;vertical-align:text-bottom;display:inherit" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:16px!important;margin-left:3px;vertical-align:text-bottom;display:inherit" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:16px!important;margin-left:3px;vertical-align:text-bottom;display:inherit" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+    
+    text : Site created by <a target="_blank" rel="noopener noreferrer" href="https://github.com/GiggleSquid">Jack "GiggleSquid" Connors</a>
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
