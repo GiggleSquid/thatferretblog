@@ -6,14 +6,6 @@ body {
   color: var(--theme);
 }
 
-#menu a {
-  transition: all 300ms ease;
-}
-
-#menu a:hover {
-  color: var(--theme);
-}
-
 .home-info {
   text-align: center;
 }
@@ -30,13 +22,21 @@ body {
   filter: brightness(0.9);
 }
 
-.footer a:hover,
+a,
+.top-link {
+  transition: color 500ms ease;
+}
+
+a:hover,
 .top-link:hover {
-  transition: all 600ms ease;
   color: var(--theme)
 }
 
+.footer a {
+  transition: color 500ms ease, border-bottom 500ms ease;
+}
+
 .footer a:hover {
-  transition: all 600ms ease;
-  border-bottom: 1px solid var(--theme)
+  color: var(--theme);
+  border-bottom: 1px solid var(--theme);
 }
