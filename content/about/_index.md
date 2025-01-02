@@ -8,14 +8,8 @@ ShowBreadCrumbs: false
 ShowCodeCopyButtons: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: false
-UseHugoToc: false
-disableSpecial1stPost: true
-disableScrollToTop: false
-comments: false
 hidemeta: true
 hideSummary: true
-showtoc: false
-tocopen: false
 ---
 Hi, my names Bunny (from the UK). I have always had a passion for animals, animal care & welfare. My partner and I have rescued an array of animals including rats, guinea pigs, rabbits, mice, bearded dragons, snakes, dogs and ferrets. However, I have always had a special interest in ferrets. We currently own 2 rescues - Boots & Toots, who were adopted from CFWRS (a ferret rescue).
 
