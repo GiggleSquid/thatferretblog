@@ -199,7 +199,7 @@ On top of raw supplies, you will have to think about raw preparation supplies an
 
 **Jack's Top Kitchen Tools**
 
-My partner, the blog developer and fellow mustelid enthusiast, is in charge of ordering raw supplies and kitchen gadgets. He has spent a significant amount of time researching grinders and bone shears etc., [and these are his top picks](/posts/jacks-top-kitchen-picks/).
+My partner, the blog developer and fellow mustelid enthusiast, is in charge of ordering raw supplies and kitchen gadgets. He has spent a significant amount of time researching grinders and bone shears etc. [And these are his top picks](/posts/jacks-top-kitchen-picks/).
 
 ---
 
