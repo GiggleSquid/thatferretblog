@@ -87,6 +87,10 @@ params:
 
     text : Site created by <a target="_blank" rel="noopener noreferrer" href="https://github.com/GiggleSquid">Jack "GiggleSquid" Connors</a>
 
+privacy:
+    disable: false
+    privacyEnhanced: true
+
 outputs:
   home:
     - HTML
