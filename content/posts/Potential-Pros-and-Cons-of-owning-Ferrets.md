@@ -1,6 +1,5 @@
 ---
 date: "2025-01-01T08:47:02Z"
-lastmod: "2025-02-01T00:16:02Z"
 title: "Potential Pros & Cons of Owning Ferrets"
 category: ["ferret 101"]
 tags: ["ferret 101"]
