@@ -6,7 +6,7 @@ tags: ["opinion"]
 
 showTOC: true
 ---
-We spend plenty of time making food for our animals, raw food and veg for our ferrets, dog, and bearded dragons. That also means I frequently spend loads of time researching and using kitchen tools.
+We spend plenty of time making food for our animals, raw food for our ferrets and our dog, and veg for our bearded dragons. That also means I frequently spend loads of time researching and using kitchen tools.
 
 So here are my top picks for kitchen tools you should consider adding to your arsenal.
 
@@ -53,7 +53,7 @@ But I like these poultry shears.
 
 Tupperware is a company that makes kitchen storage containers, but the word tupperware has been <a href="https://en.wikipedia.org/wiki/Generic_trademark" target="_blank">genericised</a> to mean kitchen storage containers.
 
-So we've minced up all our meat and offal, and chopped up the veg. Where do we put it?<br>
+So we've minced up all our meat and offal. Where do we put it?<br>
 Yup, tupperware!
 
 You need to make sure it's  dishwasher-safe (do you really want to handwash them?), freezer-safe, airtight, and preferably fastened with a clip on all sides; we don't want to be spilling raw meat all over the floor.
