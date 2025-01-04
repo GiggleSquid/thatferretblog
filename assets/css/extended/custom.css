@@ -22,6 +22,11 @@ body {
   filter: brightness(0.9);
 }
 
+.pagination a {
+  color: var(--primary);
+  background: var(--entry)
+}
+
 a,
 .top-link {
   transition: color 500ms ease;
