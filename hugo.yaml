@@ -43,6 +43,7 @@ params:
   copyrightStartYear: 2025
   defaultTheme: dark
   disableThemeToggle: false
+  cdnUrl: https://cdn.thatferret.blog
 
   # home-info mode
   homeInfoParams:
