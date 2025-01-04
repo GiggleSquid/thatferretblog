@@ -37,7 +37,7 @@ params:
   env: production
   title: That Ferret Blog
   description: "A blog for information, sources, overviews, & opinions for all things ferret related"
-  keywords: [Blog, Ferret, Mustelid, Mustelidae]
+  keywords: [Blog, Ferret, Mustelid, Mustelidae, Pet Care, Animal Care]
   author: Bunny
   DateFormat: "2 January, 2006"
   copyrightStartYear: 2025
