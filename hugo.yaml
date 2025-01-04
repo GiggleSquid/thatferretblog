@@ -41,7 +41,7 @@ params:
   author: Bunny
   DateFormat: "2 January, 2006"
   copyrightStartYear: 2025
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
 
   # home-info mode
