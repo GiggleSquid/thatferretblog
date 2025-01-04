@@ -20,7 +20,7 @@ The costs for ferrets can be split up into 4 categories:
 You'll want to cover the essentials before you consider bringing the ferrets home. This would require a start-up cost and include things such as a cage for your ferrets, suitable bedding, litter trays, litter (or puppy pads), bowls (bottles are not recommended), a carrier, toys/enrichment, and I highly recommend setting up a ferret emergency kit. The cost for these things varies depending on what items you buy and where you get the items from. But expect a few hundred to be spent.
 
 I have written a basic ferret supplies checklist, which can be found [here](/posts/initial-ferret-supplies-checklist/).<br>
-I have also written a post about my favourite supplies and where to source them, which is *COMIN SOON* — please note this is specific to the UK. Similar items may be available in the US and other countries.
+I have also written a post about my favourite supplies and where to source them, which is [here](/posts/ferret-supplies-and-basics/) — please note this is specific to the UK. Similar items may be available in the US and other countries.
 
 ### The Ferrets Themselves
 Another cost to consider would be the initial cost of purchasing or adopting the ferrets. This would depend on where you are from and where you get the ferrets. Adopting or rescuing a pair of ferrets may cost less and require a small donation or adoption fee. Whereas ferrets brought from a breeder or pet shop may cost a lot more.
