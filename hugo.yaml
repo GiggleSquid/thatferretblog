@@ -3,6 +3,7 @@ languageCode: "en-uk"
 title: "That Ferret Blog"
 theme: "PaperMod"
 
+enableRobotsTXT: true
 enableGitInfo: true
 
 pagination:
