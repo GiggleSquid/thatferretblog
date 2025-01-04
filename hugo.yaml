@@ -7,7 +7,7 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 pagination:
-  pagerSize: 5
+  pagerSize: 6
 
 markup:
   goldmark:
