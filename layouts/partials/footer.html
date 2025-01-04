@@ -13,7 +13,11 @@
   {{- end }}
 
   {{- with site.Params.footer.license }}
-  <span>{{ . | markdownify }}</span>
+  <span>{{ . | markdownify }}</span><br>
+  {{- end }}
+
+  {{- with site.Params.footer.analytics }}
+  <span>{{ . | markdownify }}</span><br>
   {{- end }}
 
   {{- with site.Params.footer.text }}
