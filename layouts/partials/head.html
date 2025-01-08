@@ -65,30 +65,37 @@
 
 {{- /* bundle all required css */}}
 {{- /* Add extended css after theme style */ -}}
-{{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css"  }}
+{{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css" }}
 
-{{ if eq hugo.Environment "development" -}}
+{{- $stylesheet = $stylesheet | css.PostCSS }}
+
 {{- if not site.Params.assets.disableFingerprinting }}
 {{- $stylesheet := $stylesheet | fingerprint }}
-<link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">
+<link
+  crossorigin="anonymous"
+  {{ if eq hugo.Environment "production" -}}
+  {{- $stylesheet := $stylesheet | resources.PostProcess }}
+    href="{{ site.Params.cdnUrl -}} {{- $stylesheet.RelPermalink }}"
+  {{- else -}}
+    href="{{ $stylesheet.RelPermalink }}"
+  {{- end }}
+  integrity="{{$stylesheet.Data.Integrity }}"
+  rel="preload stylesheet"
+  as="style"
+/>
 {{- else }}
-<link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
+<link
+  crossorigin="anonymous"
+  {{ if eq hugo.Environment "production" -}}
+  {{- $stylesheet := $stylesheet | resources.PostProcess }}
+    href="{{ site.Params.cdnUrl -}} {{- $stylesheet.RelPermalink }}"
+  {{- else -}}
+    href="{{ $stylesheet.RelPermalink }}"
+  {{- end }}
+  rel="preload stylesheet"
+  as="style"
+/>
 {{- end }}
-{{ end }}
-
-{{ if eq hugo.Environment "production" -}}
-{{- if and (not site.Params.assets.disableFingerprinting) (not site.Params.cdnUrl) }}
-{{- $stylesheet := $stylesheet | fingerprint }}
-<link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">
-{{- else if and (not site.Params.assets.disableFingerprinting)  (site.Params.cdnUrl)}}
-{{- $stylesheet := $stylesheet | fingerprint }}
-<link crossorigin="anonymous" href="{{ site.Params.cdnUrl }}{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">
-{{- else if and (site.Params.assets.disableFingerprinting) (site.Params.cdnUrl) }}
-<link crossorigin="anonymous" href="{{ site.Params.cdnUrl }}{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
-{{- else }}
-<link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
-{{- end }}
-{{ end }}
 
 {{- /* Search */}}
 {{- if (eq .Layout `search`) -}}

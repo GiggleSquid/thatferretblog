@@ -1,3 +1,6 @@
 public/
 .hugo_build.lock
+hugo_stats.json
 .direnv
+node_modules/
+resources/

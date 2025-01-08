@@ -100,3 +100,6 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+build:
+  writeStats: true
