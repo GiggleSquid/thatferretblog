@@ -1,0 +1,17 @@
+{
+  "name": "thatferretblog",
+  "version": "1.0.0",
+  "description": "A blog for my partner and I to provide information, sources, overviews, and opinions for all things ferret related.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GiggleSquid",
+  "license": "MIT",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "postcss": "^8.4.49",
+    "postcss-cli": "^11.0.0"
+  }
+}
