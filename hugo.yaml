@@ -102,4 +102,5 @@ outputs:
     - JSON
 
 build:
-  writeStats: true
+  buildStats:
+    enable: true
