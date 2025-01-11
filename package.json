@@ -12,6 +12,7 @@
   "dependencies": {
     "@catppuccin/palette": "^1.7.1",
     "@fullhuman/postcss-purgecss": "^6.0.0",
+    "@justinribeiro/lite-youtube": "^1.6.0",
     "postcss": "^8.4.49",
     "postcss-cli": "^11.0.0"
   }
