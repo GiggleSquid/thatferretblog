@@ -90,7 +90,7 @@ Some people may opt to keep their ferrets outside or take their ferrets outside 
 Instead of hutches, consider a ferret-adjusted outside aviary or a converted ferret-safe shed. These options allow much more room for the ferret and are much safer alternatives to a hutch.
 
 Outdoor ferret enclosure example
-{{< youtube VLDtzgtH4nQ >}}
+<lite-youtube videoid="VLDtzgtH4nQ" nocookie=true></lite-youtube>
 
 ## Litter trays & Litter
 
@@ -111,7 +111,7 @@ Most litter boxes can be found in pet stores or online and range from £10-30. H
 For a cheap alternative, you could also DIY a litter box! All you would need is a plastic bin/tub which you can cut a shallow entrance into. Make sure you sand the sharp edges down and then add your litter as required.
 
 Here is a YouTube video on creating a DIY ferret litter box
-{{< youtube sa1f1kST2-U >}}
+<lite-youtube videoid="sa1f1kST2-U" nocookie=true></lite-youtube>
 
 ### Litter
 
@@ -172,10 +172,10 @@ Toys & Enrichment Videos.
 Here are a few YouTube links to videos about ferret toys and enrichment.
 
 'Weird items to use with ferrets'. This video highlights everyday things, toys, and enrichment you can make or use for your ferrets.
-{{< youtube KRpTmPhNqFk >}}
+<lite-youtube videoid="KRpTmPhNqFk" nocookie=true></lite-youtube>
 
 'Top 10 ferret toys'.
-{{< youtube OwCVfXBV80c >}}
+<lite-youtube videoid="OwCVfXBV80c" nocookie=true></lite-youtube>
 
 ## Food
 
