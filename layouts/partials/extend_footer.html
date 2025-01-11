@@ -1,0 +1,28 @@
+{{- $lite_yt := resources.Get "js/lite-youtube/lite-youtube.js" | resources.Minify }}
+
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $lite_yt := (slice $lite_yt) | resources.Concat "assets/js/lite-youtube.js" | fingerprint }}
+<script
+  defer
+  crossorigin="anonymous"
+  type="module"
+  {{ if eq hugo.Environment "production" -}}
+    src="{{ site.Params.cdnUrl -}} {{- $lite_yt.RelPermalink }}"
+  {{- else -}}
+    src="{{ $lite_yt.RelPermalink }}"
+  {{- end }}
+  integrity="{{ $lite_yt.Data.Integrity }}">
+</script>
+{{- else }}
+{{- $lite_yt := (slice $lite_yt) | resources.Concat "assets/js/lite-youtube.js" }}
+<script
+  defer
+  crossorigin="anonymous"
+  type="module"
+  {{ if eq hugo.Environment "production" -}}
+    src="{{ site.Params.cdnUrl -}} {{- $lite_yt.RelPermalink }}"
+  {{- else -}}
+    src="{{ $lite_yt.RelPermalink }}"
+  {{- end }}
+</script>
+{{- end }}

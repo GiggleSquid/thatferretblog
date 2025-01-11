@@ -74,5 +74,4 @@ Note:
 - Jose shows the use of pure mineral oil, I'd recommend against that and use a beeswax and tung or mineral oil blend.<br>
 The tung/mineral oil provides a deep, penetrating hydration that blocks the absorption of whatever you're cutting, and the beeswax seals the grain and creates a pliable coat that can repair itself after you hack at it with a knife.
 
-{{< youtube MvxZMiLQtaE >}}
-
+<lite-youtube videoid="MvxZMiLQtaE" nocookie=true></lite-youtube>
