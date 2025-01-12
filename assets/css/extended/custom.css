@@ -51,4 +51,7 @@ a:hover,
 .terms-tags a {
   transition: transform .1s, color 300ms ease, filter 300ms ease;
 }
+
+.post-content dt {
+  text-align: center;
 }
