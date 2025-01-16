@@ -16,22 +16,26 @@ markup:
 
 menu:
   main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
     - identifier: about
       name: about
       url: /about/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 40
     - identifier: archive
       name: archive
       url: /archive/
-      weight: 30
+      weight: 50
     - identifier: search
       name: search
       url: /search/
-      weight: 40
+      weight: 60
 
 params:
   env: production
