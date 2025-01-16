@@ -1,7 +1,7 @@
 ---
 date: "2025-01-03T08:33:57Z"
 title: "Ferret Supplies & Basics"
-category: ["ferret 101"]
+series: ["ferret 101"]
 tags: ["ferret 101", "enclosures", "enrichment", "diet"]
 
 showtoc: true

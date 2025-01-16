@@ -1,7 +1,7 @@
 ---
 date: "2025-01-01T08:47:02Z"
 title: "Potential Pros & Cons of Owning Ferrets"
-category: ["ferret 101"]
+series: ["ferret 101"]
 tags: ["ferret 101"]
 ---
 Someone asked, 'What are the pros and cons of owning ferrets? Would they make good starter pets?'.

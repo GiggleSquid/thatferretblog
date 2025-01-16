@@ -1,7 +1,7 @@
 ---
 date: "2025-01-04T20:47:23Z"
 title: "Where to Get a Ferret"
-category: ["ferret 101"]
+series: ["ferret 101"]
 tags: ["ferret 101", "opinion"]
 
 showTOC: true

@@ -1,7 +1,7 @@
 ---
 date: "2025-01-02T21:30:36Z"
 title: "Initial Ferret Supplies Checklist"
-category: ["ferret 101"]
+series: ["ferret 101"]
 tags: ["ferret 101"]
 ---
 This will be a general checklist of supplies needed before you bring your ferrets home!<br>
