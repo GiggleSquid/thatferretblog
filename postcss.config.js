@@ -5,6 +5,7 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
     return [...(els.tags || []), ...(els.classes || []), ...(els.ids || [])];
   },
   safelist: [],
+  variables: true,
 });
 
 module.exports = {
