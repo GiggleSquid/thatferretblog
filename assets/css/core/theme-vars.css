@@ -14,7 +14,7 @@
   --content: var(--ctp-latte-text);
   --code-block-bg: var(--ctp-latte-surface2);
   --code-bg: var(--ctp-latte-base);
-  --border: var(--ctp-latte-mantle);
+  --border: var(--ctp-latte-surface0);
 }
 
 .dark {
@@ -26,7 +26,7 @@
   --content: var(--ctp-mocha-text);
   --code-block-bg: var(--ctp-mocha-surface2);
   --code-bg: var(--ctp-mocha-base);
-  --border: var(--ctp-mocha-mantle);
+  --border: var(--ctp-mocha-surface1);
 }
 
 .list {
