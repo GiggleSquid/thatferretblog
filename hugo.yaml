@@ -24,6 +24,10 @@ menu:
       name: about
       url: /about/
       weight: 20
+    - identifier: series
+      name: series
+      url: /series/
+      weight: 30
     - identifier: tags
       name: tags
       url: /tags/
@@ -36,6 +40,10 @@ menu:
       name: search
       url: /search/
       weight: 60
+
+taxonomies:
+  tag: tags
+  series: series
 
 params:
   env: production
