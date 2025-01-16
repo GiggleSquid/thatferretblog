@@ -1,7 +1,7 @@
 ---
 date: "2025-01-12T04:53:45Z"
 title: "Ferret Colours and Patterns"
-category: ["ferret 101"]
+series: ["ferret 101"]
 tags: ["ferret 101"]
 
 showtoc: true

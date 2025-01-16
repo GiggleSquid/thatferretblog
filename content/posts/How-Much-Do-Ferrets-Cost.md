@@ -1,7 +1,7 @@
 ---
 date: "2025-01-02T21:20:38Z"
 title: "How Much Do Ferrets Cost?"
-category: ["ferret 101"]
+series: ["ferret 101"]
 tags: ["ferret 101"]
 
 showtoc: true

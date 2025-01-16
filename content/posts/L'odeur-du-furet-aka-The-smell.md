@@ -1,7 +1,7 @@
 ---
 date: "2025-01-11T05:21:53Z"
 title: "L'odeur du furet, aka The smell"
-category: ["ferret 101"]
+series: ["ferret 101"]
 tags: ["ferret 101", "well-being", "health"]
 keywords: ["are ferrets smelly","are ferrets stinky","de-scenting","descenting","do ferrets smell bad","do ferrets smell worse than dogs","do ferrets smell worse than rats","do ferrets smell","do ferrets stink","ferret musk","ferret smell","ferret stink","how bad do ferrets smell","how much do ferrets smell","how to bathe a ferret with oatmeal","how to bathe a ferret","how to bathe ferrets","how to clean a ferret","how to clean ferrets","how to get rid of a ferrets smell","how to get rid of ferret odor","how to get rid of ferret smell","how to keep a ferret from smelling","how to keep a ferret from stinking","how to keep ferrets from smelling","how to keep ferrets from stinking","how to make a ferret not smell","how to make a ferret not stink","how to make ferrets not smell","how to make ferrets not stink","how to stop a ferret from smelling","how to stop a ferret smelling","how to stop ferrets from smelling","how to stop ferrets from stinking","how to stop ferrets smelling","how to wash a ferret","why do ferrets smell","why do ferrets stink"]
 ---
