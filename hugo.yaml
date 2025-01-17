@@ -84,7 +84,7 @@ params:
     - name: linktree
       url: "https://linktr.ee/thatbunny"
     - name: instagram
-      url: "https://www.instagram.com/bootsntoots_/profilecard/?igsh=eGE1dWJpY3Nsa2N3"
+      url: "https://www.instagram.com/bootsntoots_/profilecard"
 
   fuseOpts:
     isCaseSensitive: false
