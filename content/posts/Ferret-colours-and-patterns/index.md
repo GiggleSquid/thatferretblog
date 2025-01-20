@@ -159,7 +159,7 @@ Brown T
 
 ---
 
-Here's a fantastic chart by <a href="https://www.deviantart.com/iceiceaislynn/" target="_blank">IceIceAislynn on deviantart</a>
+Here's a fantastic chart by [IceIceAislynn on deviantart](https://www.deviantart.com/iceiceaislynn/)
 
 ![Ferret colour chart by IceIceAislynn](ferret-color-chart-by-IceIceAislynn.png)
 
@@ -168,6 +168,6 @@ Here's a fantastic chart by <a href="https://www.deviantart.com/iceiceaislynn/" 
 This blog post was based on research from multiple sources, condensing info to make it easier to skim!
 
 Sources:<br>
-<a href="https://www.fairoakferrets.co.uk/ferret-colours" target="_blank">fairoakferrets.co.uk/ferret-colours</a><br>
-<a href="https://www.ferret.org/pdfs/Ferret_Colors_and_Patterns.pdf" target="_blank">ferret.org/pdfs/Ferret_Colors_and_Patterns.pdf</a><br>
-<a href="https://holisticferretforum.com/about-ferrets/ferret-colors-and-patterns" target="_blank">holisticferretforum.com/about-ferrets/ferret-colors-and-patterns</a>
+[fairoakferrets.co.uk/ferret-colours](https://www.fairoakferrets.co.uk/ferret-colours)<br>
+[https://ferret.org/pdfs/Ferret_Colors_and_Patterns.pdf](https://www.ferret.org/pdfs/Ferret_Colors_and_Patterns.pdf)<br>
+[https://holisticferretforum.com/about-ferrets/ferret-colors-and-patterns](https://holisticferretforum.com/about-ferrets/ferret-colors-and-patterns)

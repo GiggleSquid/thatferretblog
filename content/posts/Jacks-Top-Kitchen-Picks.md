@@ -15,7 +15,7 @@ This *may* change, and if so, will be fully disclosed.
 
 ---
 
-## <a href="https://www.kenwoodworld.com/en-gb/chef-kvc3100s/p/KVC3100S" target="_blank">Kenwood Chef Stand Mixer</a>
+## [Kenwood Chef Stand Mixer](https://www.kenwoodworld.com/en-gb/chef-kvc3100s/p/KVC3100S)
 
 Ok, this one is more of a prerequisite purchase combined with the next item. It's one of the most useful kitchen appliances we own.
 
@@ -26,7 +26,7 @@ Anyway, along comes the Kenwood Chef. From what I can find, it has the same 1000
 
 I haven't tried mincing bones again, yet, I'm not sure that I even need to try as we now buy minced chicken carcass for the bone content. But I have noticed it *seems* to be chewing through our monthly grinding a bit easier.
 
-## <a href="https://www.kenwoodworld.com/en-gb/food-mincer-attachment-kax950me/p/KAX950ME" target="_blank">Kenwood Food Mincer Attatchment</a>
+## [Kenwood Food Mincer Attatchment](https://www.kenwoodworld.com/en-gb/food-mincer-attachment-kax950me/p/KAX950ME)
 
 As said above, this is combined with the stand mixer.
 
@@ -36,7 +36,7 @@ There's not that much I can say about the attachment though, it's just a good, s
 
 There are other mincers, and with the lightest bit of research, you can't really go wrong (unless you want to grind bones).
 
-## <a href="https://www.knivesandtools.co.uk/en/pt/-zwilling-twin-select-game-scissors-42931-000-0.htm" target="_blank">Poultry Shears</a>
+## [Poultry Shears](https://www.knivesandtools.co.uk/en/pt/-zwilling-twin-select-game-scissors-42931-000-0.htm)
 
 These things are essential if you're dealing with small, soft bones.
 
@@ -49,9 +49,9 @@ Could I have bought a better pair? Possibly.
 
 But I like these poultry shears.
 
-## <a href="https://www.tesco.com/groceries/en-GB/products/296705474" target="_blank">Tupperware</a>, no not the brand
+## [Tupperware](https://www.tesco.com/groceries/en-GB/products/296705474), no not the brand
 
-Tupperware is a company that makes kitchen storage containers, but the word tupperware has been <a href="https://en.wikipedia.org/wiki/Generic_trademark" target="_blank">genericised</a> to mean kitchen storage containers.
+Tupperware is a company that makes kitchen storage containers, but the word tupperware has been [genericised](https://en.wikipedia.org/wiki/Generic_trademark) to mean kitchen storage containers.
 
 So we've minced up all our meat and offal. Where do we put it?<br>
 Yup, tupperware!
