@@ -97,4 +97,4 @@ If you'd like to recap vocalizations or hear more sounds that ferrets make, here
 
 ---
 
-Want to know about basic ferret behaviours? You can visit the [blog post here!](/posts/Basic-Ferret-Behaviours.md)
+Want to know about basic ferret behaviours? You can visit the [blog post here!](/posts/basic-ferret-behaviours)
