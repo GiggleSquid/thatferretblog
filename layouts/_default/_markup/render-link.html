@@ -1,7 +1,11 @@
 {{- $u := urls.Parse .Destination -}}
 <a href="{{ .Destination | safeURL }}"
   {{- with .Title }} title="{{ . }}"{{ end -}}
-  {{- if $u.IsAbs }} target="_blank"{{ end -}}
+  {{- if $u.IsAbs -}}
+    target="_blank"
+    data-umami-event="outbound-link-clicked"
+    data-umami-event-url="{{ .Destination | safeURL }}"
+  {{- end -}}
 >
   {{- with .Text }}{{ . }}{{ end -}}
 </a>
