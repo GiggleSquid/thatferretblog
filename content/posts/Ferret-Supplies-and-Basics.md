@@ -25,7 +25,7 @@ Indoor cages offer your ferret a place of warmth and safety. Cages should be big
 
 The Critter Nation Cage (or CNC) is a cage often raved about in the ferret community. Unfortunately, it can be hard to source within the UK and is more readily available in the US and other countries. Unfortunately, I have no personal experience with this cage. But from what I've seen and heard, it is great! The Critter Nation can be around $200-300 (that's £160-240ish).
 
-More information and where to get a Critter Nation Cage can be found at <a href="https://www.critternationcage.com/critter-nation-double-level/" target="_blank">critternationcage.com</a>
+More information and where to get a Critter Nation Cage can be found at [critternationcage.com](https://www.critternationcage.com/critter-nation-double-level/)
 
 #### Pet Planet Cage
 
@@ -53,7 +53,7 @@ Cons:
 
 - Opinion: It feels rather flimsy and cheap compared to other cages I've used. The levels and dividers feel almost thin, and the cage framing feels rather light.
 
-You can read more about the Pet Planet Cage & Purchase one from <a href="https://www.petplanet.co.uk/p28577/rat_and_ferret_cage_by_petplanet.aspx" target="_blank">petplanet.co.uk</a>
+You can read more about the Pet Planet Cage & Purchase one from [petplanet.co.uk](https://www.petplanet.co.uk/p28577/rat_and_ferret_cage_by_petplanet.aspx)
 
 #### Little Zoo Venturer Cage
 
@@ -73,7 +73,7 @@ Here are a few keynotes:
 
 These are just a few key points about how the LZV compares against other cages. It also has all the same pros as the Pet Planet Cage. The only controversial pro/con with the LZV is bar spacing. The bar spacing for the LZV is 2 mm and significantly smaller than the bar spacing of other similar cages. This could be considered a positive as it means there is less chance of injury and the ferrets getting their head stuck between the bars. But, it can also be seen as a negative as it means hanging hammocks, attachable food bowls etc — ones that are the appropriate size for ferrets — tricky.
 
-You can read more about the Little Zoo Venturer Cage & Purchase one from <a href="https://www.mydegu.com/product-page/little-zoo-venturer" target="_blank">mydegu.com</a>
+You can read more about the Little Zoo Venturer Cage & Purchase one from [mydegu.com](https://www.mydegu.com/product-page/little-zoo-venturer)
 
 ### Free roam space
 
@@ -104,9 +104,9 @@ Litter boxes should be big enough for the ferrets to turn fully. Imagine your fe
 
 Most litter boxes can be found in pet stores or online and range from £10-30. Here are 2 of my litter box favourites:
 
-- High-sided rectangle litter box, costs £20. <a href="https://amzn.eu/d/avqeV7D" target="_blank">Amazon link</a>
+- High-sided rectangle litter box, costs £20. [Amazon link](https://amzn.eu/d/avqeV7D)
 
-- Xl corner litter box, costs around £16. <a href="https://amzn.eu/d/1NzkC0b" target="_blank">Amazon link</a>
+- Xl corner litter box, costs around £16. [Amazon link](https://amzn.eu/d/1NzkC0b)
 
 For a cheap alternative, you could also DIY a litter box! All you would need is a plastic bin/tub which you can cut a shallow entrance into. Make sure you sand the sharp edges down and then add your litter as required.
 
@@ -121,11 +121,11 @@ The price of paper litter depends on how much you get and where you get it from.
 
 Some paper litter examples:
 
-- Bio Catolet Litter is around £6-16 but can vary from where you purchase it. You can read about Bio Catolet and find suitable stockists on <a href="https://biocatolet.co.uk/" target="_blank">biocatolet.co.uk</a>
+- Bio Catolet Litter is around £6-16 but can vary from where you purchase it. You can read about Bio Catolet and find suitable stockists on [biocatolet.co.uk](https://biocatolet.co.uk/)
 
-- Back 2 Nature Litter is around £15-25 but can vary from where you purchase it from. You can read about Back 2 Nature and find suitable stockists on <a href="https://www.fibrecycle.co.uk/back-2-nature-1" target="_blank">fibrecycle.co.uk</a>
+- Back 2 Nature Litter is around £15-25 but can vary from where you purchase it from. You can read about Back 2 Nature and find suitable stockists on [fibrecycle.co.uk](https://www.fibrecycle.co.uk/back-2-nature-1)
 
-- Breeder Celect Litter is around £9-25 but can vary from where you purchase it. You can read about Breeder Celect and find suitable stockists on <a href="https://www.breedercelectcats.co.uk/breeder-celect-cat-litter" target="_blank">breedercelectcats.co.uk</a>
+- Breeder Celect Litter is around £9-25 but can vary from where you purchase it. You can read about Breeder Celect and find suitable stockists on [breedercelectcats.co.uk](https://www.breedercelectcats.co.uk/breeder-celect-cat-litter)
 
 ## Beds & Bedding
 
@@ -155,11 +155,11 @@ Both our flexi tubes and our cat wheel are from eBay. They are a bit of an expen
 
 Linked below:
 
-- Dust extradtion tubes: <a href="https://www.ebay.co.uk/itm/184046429610" target="_blank">eBay link</a>
+- Dust extradtion tubes: [eBay link](https://www.ebay.co.uk/itm/184046429610)
 
-- Cat Wheel: <a href="https://www.ebay.co.uk/itm/374821701555" target="_blank">eBay link</a>
+- Cat Wheel: [eBay link](https://www.ebay.co.uk/itm/374821701555)
 
-If you'd like to see our cat wheel in action or cute videos and pictures of Boots & Toots, make sure to follow them on Instagram. You can find the profile in my <a href="https://linktr.ee/thatbunny" target="_blank">Linktree</a>.
+If you'd like to see our cat wheel in action or cute videos and pictures of Boots & Toots, make sure to follow them on Instagram. You can find the profile in my [Linktree](https://linktr.ee/thatbunny).
 
 ### DIY Toys & Enrichment
 
@@ -183,17 +183,17 @@ Kibble can be sourced from most pet retailers or online. Raw food can be sourced
 
 Here are a few websites where you can source raw food. (Please note: Do not attempt to feed your ferrets raw before you have done the appropriate raw diet research).
 
-- <a href="https://www.rawpetsupplies.co.uk/" target="_blank">Raw Pet Supplies</a> is our personal go-to. They offer all categories, such as whole prey, pre-mixed grounds, pre-minced raw, whole organs, chunks, and treats.
+- [Raw Pet Supplies](https://www.rawpetsupplies.co.uk/) is our personal go-to. They offer all categories, such as whole prey, pre-mixed grounds, pre-minced raw, whole organs, chunks, and treats.
 
-- <a href="https://www.rawdogfoodsupplies.co.uk/" target="_blank">Raw Dog Foods</a> offers 80/10/10, minces, and raw-based treats.
+- [Raw Dog Foods](https://www.rawdogfoodsupplies.co.uk/) offers 80/10/10, minces, and raw-based treats.
 
 
-- <a href="https://www.therawsuperstore.co.uk/" target="_blank">The raw pet store</a> provides a variety of everything.
+- [The raw pet store](https://www.therawsuperstore.co.uk/) provides a variety of everything.
 
 
 Important: you will want to make sure when looking for raw (specifically if it is pre-mixed, 80/10/10 or pre-minced), that there are no hidden or added vegetables. Since raw feeding is mostly common among dogs (because they are one of the most common pets) a lot of pre-mixed raw contains vegetables suitable for dogs. Ferrets cannot eat and digest vegetables and need a 100% meat-based diet. I recommend Raw Pet Supplies as it will also let you shop by animal, meaning you can categorise ferrets and shop based on things suitable for them.
 
-Visit the Holistic Ferret Forum for raw feeding advice and guidelines. The link to the website is in my <a href="https://linktr.ee/thatbunny" target="_blank">Linktree</a>.
+Visit the Holistic Ferret Forum for raw feeding advice and guidelines. The link to the website is in my [Linktree](https://linktr.ee/thatbunny).
 
 On top of raw supplies, you will have to think about raw preparation supplies and kitchen essentials, especially if you are mincing your own meat and mixing it yourself. This would consist of scales, bone shears, a grinder, a food processor, etc.
 

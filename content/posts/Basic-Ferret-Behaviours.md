@@ -33,10 +33,10 @@ Similar to dogs, when playing &mdash; some ferrets will wag their tails to show 
 
 > Here are a few video examples of ferrets engaging in playful behaviours:
 >
-> <a href="https://www.youtube.com/watch?v=l4M75UGUK5A" rel="noopener noreferrer" target="_blank">War dancing</a><br>
-> <a href="https://www.youtube.com/watch?v=H2tCSYAsqOg" rel="noopener noreferrer" target="_blank">Play wrestling</a><br>
-> <a href="https://www.youtube.com/watch?v=OUDmAisMTX4" rel="noopener noreferrer" target="_blank">Digging</a><br>
-> <a href="https://www.youtube.com/watch?v=zTJTXmWmyZ8" rel="noopener noreferrer" target="_blank">Tail wagging</a>
+> [War dancing](https://www.youtube.com/watch?v=l4M75UGUK5A)<br>
+> [Play wrestling](https://www.youtube.com/watch?v=H2tCSYAsqOg)<br>
+> [Digging](https://www.youtube.com/watch?v=OUDmAisMTX4)<br>
+> [Tail wagging](https://www.youtube.com/watch?v=zTJTXmWmyZ8)
 
 ---
 
@@ -53,7 +53,7 @@ This is often seen in dominance wrestling or when playful rough-housing elevates
 
 > With dominance behaviours, one of the biggest questions people have is 'Are my ferrets fighting or playing?'.
 >
-> <a href="https://www.youtube.com/watch?v=YPImx7JWqHk" rel="noopener noreferrer" target="_blank">Here's a YouTube video discussing and showing the differences.</a>
+> [Here's a YouTube video discussing and showing the differences](https://www.youtube.com/watch?v=YPImx7JWqHk).
 
 ---
 
@@ -70,8 +70,8 @@ Frightened ferrets may fear bite, this will be very different to a gentle play b
 
 > Here are a few video examples of frightened ferrets:
 >
-><a href="https://www.youtube.com/watch?v=vf94xabCf9Q" rel="noopener noreferrer" target="_blank">Scared rescue ferret (examples of vocalisations and frightened behaviours/biting)</a><br>
-><a href="https://www.youtube.com/watch?v=BTLaMEsdQEg" rel="noopener noreferrer" target="_blank">Generally anxious ferret</a>
+> [Scared rescue ferret (examples of vocalisations and frightened behaviours/biting)](https://www.youtube.com/watch?v=vf94xabCf9Q)<br>
+> [Generally anxious ferret](https://www.youtube.com/watch?v=BTLaMEsdQEg)
 
 ---
 
@@ -85,9 +85,9 @@ Ferrets that are heavily bonded to you may also enjoy helping you groom. This me
 
 > Here are a few video examples of ferret grooming:
 >
-> <a href="https://www.youtube.com/watch?v=qnFlLlf6FaI" rel="noopener noreferrer" target="_blank">Grooming themself</a><br>
-> <a href="https://www.youtube.com/watch?v=zDnsDZ08vVg" rel="noopener noreferrer" target="_blank">Grooming each other</a><br>
-> <a href="https://www.youtube.com/watch?v=0Mzh3TwJmL8" rel="noopener noreferrer" target="_blank">Ferret grooming their owner</a>
+> [Grooming themself](https://www.youtube.com/watch?v=qnFlLlf6FaI)<br>
+> [Grooming each other](https://www.youtube.com/watch?v=zDnsDZ08vVg)<br>
+> [Ferret grooming their owner](https://www.youtube.com/watch?v=0Mzh3TwJmL8)
 
 ---
 
@@ -119,8 +119,8 @@ Usually stashing food is not a problem as ferrets will eat it later, or you can 
 
 > Here are a few video examples of ferrets displaying food-related behaviours:
 >
-> <a href="https://www.youtube.com/watch?v=BV8uAaQOEdE" rel="noopener noreferrer" target="_blank">Head dunking & digging in water</a><br>
-> <a href="https://www.youtube.com/watch?v=c2ZRzoxOvE0" rel="noopener noreferrer" target="_blank">Stashing food</a>. *Note: the ferret in this video is stashing goldfish crackers, do not feed your ferret human foods!*
+> [Head dunking & digging in water](https://www.youtube.com/watch?v=BV8uAaQOEdE)<br>
+> [Stashing food](https://www.youtube.com/watch?v=c2ZRzoxOvE0). *Note: the ferret in this video is stashing goldfish crackers, do not feed your ferret human foods!*
 
 ---
 
@@ -134,9 +134,9 @@ Ferrets will cuddle each other as a means of affection and warmth. It shows that
 
 > Here are a few video examples of ferret sleeping habits:
 >
-> <a href="https://www.youtube.com/watch?v=l6aBhwsIoMQ" rel="noopener noreferrer" target="_blank">Falling asleep dramatically</a><br>
-> <a href="https://www.youtube.com/watch?v=hyqK8S-QZvA" rel="noopener noreferrer" target="_blank">Dead sleep example 1</a><br>
-> <a href="https://www.youtube.com/watch?v=Wa_zPT9LVeA" rel="noopener noreferrer" target="_blank">Dead sleep example 2</a><br>
+> [Falling asleep dramatically](https://www.youtube.com/watch?v=l6aBhwsIoMQ)<br>
+> [Dead sleep example 1](https://www.youtube.com/watch?v=hyqK8S-QZvA)<br>
+> [Dead sleep example 2](https://www.youtube.com/watch?v=Wa_zPT9LVeA)<br>
 > *Note: We do not recommend disturbing your ferret unnecessarily during dead sleep*
 
 ---
@@ -166,9 +166,9 @@ This refers to when a ferret's tail gets all spiky and poofy! It may resemble a 
 
 > Here are a few video examples of other ferret behaviours:
 >
-> <a href="https://www.youtube.com/watch?v=VUVjtkjFTzg" rel="noopener noreferrer" target="_blank">Stashing</a><br>
-> <a href="https://www.youtube.com/watch?v=pStNePYwwvg" rel="noopener noreferrer" target="_blank">Bottlebrush tail</a><br>
-> <a href="https://www.youtube.com/watch?v=4oK6rp3R9_Q" rel="noopener noreferrer" target="_blank">General ferret behaviours</a>
+> [Stashing](https://www.youtube.com/watch?v=VUVjtkjFTzg)<br>
+> [Bottlebrush tail](https://www.youtube.com/watch?v=pStNePYwwvg)<br>
+> [General ferret behaviours](https://www.youtube.com/watch?v=4oK6rp3R9_Q)
 
 ---
 
