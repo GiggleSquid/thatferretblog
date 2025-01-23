@@ -55,3 +55,20 @@ a:hover,
 .post-content dt {
   text-align: center;
 }
+
+lite-youtube {
+  --consent-display: block;
+}
+
+lite-youtube::before {
+  display: var(--consent-display);
+  position: absolute;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding: 1em 1em 0em;
+  background: rgba(30, 30, 46, 0.75);
+  font-size: 14px;
+  content: "By clicking to play this video you are consenting to the usage of tracking cookies placed by YouTube (Google)";
+}
