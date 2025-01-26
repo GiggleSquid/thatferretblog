@@ -1,5 +1,23 @@
+@font-face {
+  font-family: "noto-sans";
+  src:
+    url("https://cdn.thatferret.blog/fonts/NotoSans-VF.ttf");
+}
+
+@font-face {
+  font-family: "noto-sans-italic";
+  src:
+    url("https://cdn.thatferret.blog/fonts/NotoSans-Italic-VF.ttf");
+}
+
+
 body {
+  font-family: "noto-sans", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
   background: var(--code-bg);
+}
+
+em {
+  font-family: "noto-sans-italic", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
 }
 
 .nav .logo a {
