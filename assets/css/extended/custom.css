@@ -2,6 +2,7 @@
   font-family: "noto-sans";
   src:
     url("https://cdn.thatferret.blog/fonts/NotoSans-VF.ttf") format("truetype");
+  font-style: normal;
   font-display: swap;
 }
 
@@ -9,6 +10,7 @@
   font-family: "noto-sans-italic";
   src:
     url("https://cdn.thatferret.blog/fonts/NotoSans-Italic-VF.ttf") format("truetype");
+  font-style: italic;
   font-display: swap;
 }
 
