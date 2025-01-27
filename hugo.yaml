@@ -69,6 +69,7 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
+  ShowPageNums: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
