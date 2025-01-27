@@ -2,12 +2,14 @@
   font-family: "noto-sans";
   src:
     url("https://cdn.thatferret.blog/fonts/NotoSans-VF.ttf");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "noto-sans-italic";
   src:
     url("https://cdn.thatferret.blog/fonts/NotoSans-Italic-VF.ttf");
+  font-display: swap;
 }
 
 
