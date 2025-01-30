@@ -1,6 +1,6 @@
 {
   "name": "thatferretblog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A blog for my partner and I to provide information, sources, overviews, and opinions for all things ferret related.",
   "main": "index.js",
   "scripts": {
