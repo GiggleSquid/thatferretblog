@@ -10,8 +10,11 @@ const purgecss = purgeCSSPlugin({
   variables: true,
 });
 
+const autoprefixer = require('autoprefixer')
+const postcssCalc = require('postcss-calc')
+
 module.exports = {
   plugins: [
-    ...(process.env.HUGO_ENVIRONMENT === "production" ? [purgecss] : []),
+    ...(process.env.HUGO_ENVIRONMENT === "production" ? [purgecss, autoprefixer, postcssCalc] : []),
   ],
 };
