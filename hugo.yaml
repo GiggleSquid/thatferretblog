@@ -86,8 +86,8 @@ params:
       url: "https://linktr.ee/thatbunny"
     - name: instagram
       url: "https://www.instagram.com/bootsntoots_/profilecard"
-    - name: tiktok
-      url: "https://www.tiktok.com/@bunnyandthepets"
+    - name: reddit
+      url: "https://www.reddit.com/r/thatferretsub/"
 
   fuseOpts:
     isCaseSensitive: false
