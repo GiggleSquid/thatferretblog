@@ -1,2 +1,5 @@
+{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+<!-- Umami analytics script -->
 <script defer src="https://thatferret.blog/umami_analytics.js"
   data-website-id="4d2fd902-ee8d-4ce5-9580-d2e2409c8055"></script>
+{{- end -}}
