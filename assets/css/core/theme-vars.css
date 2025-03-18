@@ -6,15 +6,15 @@
   --header-height: 60px;
   --footer-height: 60px;
   --radius: 8px;
-  --theme: var(--ctp-latte-mauve);
-  --entry: var(--ctp-latte-crust);
-  --primary: var(--ctp-latte-text);
-  --secondary: var(--ctp-latte-subtext1);
-  --tertiary: var(--ctp-latte-surface1);
-  --content: var(--ctp-latte-text);
-  --code-block-bg: var(--ctp-latte-surface2);
-  --code-bg: var(--ctp-latte-base);
-  --border: var(--ctp-latte-surface0);
+  --theme: var(--ctp-frappe-mauve);
+  --entry: var(--ctp-frappe-crust);
+  --primary: var(--ctp-frappe-text);
+  --secondary: var(--ctp-frappe-subtext1);
+  --tertiary: var(--ctp-frappe-surface1);
+  --content: var(--ctp-frappe-text);
+  --code-block-bg: var(--ctp-frappe-surface2);
+  --code-bg: var(--ctp-frappe-base);
+  --border: var(--ctp-frappe-surface0);
 }
 
 .dark {
