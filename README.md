@@ -3,6 +3,8 @@
 [![Hugo](https://img.shields.io/badge/built_with-hugo-cba6f7?style=for-the-badge&logo=hugo&logoColor=cba6f7&labelColor=363a4f)](https://gohugo.io)
 [![PaperMod](https://img.shields.io/badge/adityatelange-hugo--PaperMod-cba6f7?style=for-the-badge&logo=hugo&logoColor=cba6f7&labelColor=363a4f)](https://github.com/adityatelange/hugo-PaperMod)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W819HGZ7)
+
 A blog for my partner to provide information, sources, overviews, & opinions for all things ferret related. 
 
 ---

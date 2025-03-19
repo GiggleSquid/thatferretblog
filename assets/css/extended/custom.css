@@ -14,7 +14,6 @@
   font-display: swap;
 }
 
-
 body {
   font-family: "noto-sans", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
   background: var(--code-bg);
@@ -61,6 +60,10 @@ a:hover,
   color: var(--theme)
 }
 
+.footer {
+  margin-bottom: 75px;
+}
+
 .footer a {
   transition: color 500ms ease, border-bottom 500ms ease;
 }
@@ -94,3 +97,10 @@ lite-youtube::before {
   font-size: 14px;
   content: "By clicking to play this video you are consenting to the usage of tracking cookies placed by YouTube (Google)";
 }
+
+/* Ko-fi */
+.floatingchat-donate-button {
+  font-family: "noto-sans", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+}
+
+/* End Ko-fi */

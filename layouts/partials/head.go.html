@@ -111,6 +111,8 @@
 {{- /* Add extended css after theme style */ -}}
 {{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css" | css.PostCSS }}
 
+{{ site.Store.Set "stylesheet" $stylesheet }}
+
 {{- if not site.Params.assets.disableFingerprinting }}
   {{- $stylesheet := $stylesheet | fingerprint }}
   <link

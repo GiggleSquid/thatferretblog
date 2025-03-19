@@ -36,3 +36,66 @@
   }
 </script>
 
+<!-- Ko-fi floating donation button -->
+<script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelector(
+      "iframe.floatingchat-container",
+    ).contentWindow.document.body.style.background = "transparent";
+    document.querySelector(
+      "iframe.floatingchat-container-mobi",
+    ).contentWindow.document.body.style.background = "transparent";
+  });
+</script>
+
+{{- $stylesheet := site.Store.Get "stylesheet" }}
+
+{{- if not site.Params.assets.disableFingerprinting }}
+  {{- $stylesheet := $stylesheet | fingerprint }}
+  {{ if eq hugo.Environment "production" -}}
+    {{- $stylesheet := $stylesheet | resources.PostProcess }}
+    <script>
+      kofiWidgetOverlay.draw('thatferretkofi', {
+        'type': 'floating-chat',
+        'floating-chat.stylesheets': '["{{ site.Params.cdnUrl -}} {{- $stylesheet.RelPermalink }}"]',
+        'floating-chat.donateButton.text': 'Support us',
+        'floating-chat.donateButton.background-color': 'var (--theme)',
+        'floating-chat.donateButton.text-color': 'var (--entry)'
+      });
+    </script>
+  {{- else -}}
+    <script>
+      kofiWidgetOverlay.draw('thatferretkofi', {
+        'type': 'floating-chat',
+        'floating-chat.stylesheets': '["{{ $stylesheet.RelPermalink }}"]',
+        'floating-chat.donateButton.text': 'Support us',
+        'floating-chat.donateButton.background-color': 'var(--theme)',
+        'floating-chat.donateButton.text-color': 'var(--entry)'
+      });
+    </script>
+  {{- end }}
+{{- else }}
+  {{ if eq hugo.Environment "production" -}}
+    {{- $stylesheet := $stylesheet | resources.PostProcess }}
+    <script>
+      kofiWidgetOverlay.draw('thatferretkofi', {
+        'type': 'floating-chat',
+        'floating-chat.stylesheets': '["{{ site.Params.cdnUrl -}} {{- $stylesheet.RelPermalink }}"]',
+        'floating-chat.donateButton.text': 'Support us',
+        'floating-chat.donateButton.background-color': 'var(--theme)',
+        'floating-chat.donateButton.text-color': 'var(--entry)'
+      });
+    </script>
+  {{- else -}}
+    <script>
+      kofiWidgetOverlay.draw('thatferretkofi', {
+        'type': 'floating-chat',
+        'floating-chat.stylesheets': '["{{ $stylesheet.RelPermalink }}"]',
+        'floating-chat.donateButton.text': 'Support us',
+        'floating-chat.donateButton.background-color': 'var(--theme)',
+        'floating-chat.donateButton.text-color': 'var(--entry)'
+      });
+    </script>
+  {{- end }}
+{{- end }}
