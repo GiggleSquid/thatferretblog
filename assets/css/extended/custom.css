@@ -14,6 +14,14 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "amatic-sc";
+  src:
+    url("https://cdn.thatferret.blog/fonts/AmaticSC-Bold.ttf") format("truetype");
+  font-style: bold;
+  font-display: swap;
+}
+
 body {
   font-family: "noto-sans", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
   background: var(--code-bg);
@@ -24,6 +32,7 @@ em {
 }
 
 .nav .logo a {
+  font-family: "amatic-sc", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
   color: var(--theme);
 }
 
