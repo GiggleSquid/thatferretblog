@@ -34,6 +34,7 @@ em {
 .nav .logo a {
   font-family: "amatic-sc", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
   color: var(--theme);
+  font-size: 32px;
 }
 
 .home-info {
