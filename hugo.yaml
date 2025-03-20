@@ -61,12 +61,12 @@ params:
   homeInfoParams:
     imageUrl: /images/thatferretblog-logo.png
     imageTitle: That Ferret Blog Logo
-    imageWidth: 500
-    imageHeight: 500
+    imageWidth: 400
+    imageHeight: 400
     imageTargetFormat: webp
     imageHint: drawing
     imageQuality: q100
-    imageScaleFactor: 2
+    imageScaleFactor: 1.6
     Title: <span style="color:var(--theme)">For all things ferret</span>
     Content: "This blog aims to provide information, sources, overviews, & opinions for all things ferret related."
 
