@@ -41,6 +41,10 @@ em {
   font-size: 32px;
 }
 
+.logo {
+  margin: auto calc(var(--gap) - 32px) auto var(--gap);
+}
+
 .home-info {
   text-align: center;
 }
