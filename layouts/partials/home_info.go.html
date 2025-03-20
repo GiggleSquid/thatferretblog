@@ -27,6 +27,8 @@
         <div id="home-info-logo">
           <img
             draggable="false"
+            rel="preload"
+            fetchpriority="high"
             src="{{ site.Params.cdnUrl -}} {{- $img.RelPermalink }}"
             alt="{{ .imageTitle | default "profile image" }}"
             title="{{ .imageTitle }}"
