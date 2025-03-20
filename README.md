@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/thatferretblog-logo.png" width="300"/><br/>
+  <img src="assets/images/thatferretblog-logo.png" width="300"/><br/>
   <a href=""https://thatferret.blog>That Ferret Blog</a>
 </h1>
 
