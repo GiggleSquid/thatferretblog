@@ -13,23 +13,25 @@
         {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
         {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true) }}
           {{- if (not (and (not .imageHeight) (not .imageWidth))) }}
-            {{- $img = $img.Resize (printf "%dx%d" .imageWidth .imageHeight) }}
+            {{- $img = $img.Resize (printf "%dx%d %s %s %s" .imageWidth .imageHeight .imageTargetFormat .imageHint .imageQuality) }}
           {{- else if .imageHeight }}
-            {{- $img = $img.Resize (printf "x%d" .imageHeight) }}
+            {{- $img = $img.Resize (printf "x%d %s %s %s" .imageHeight .imageTargetFormat .imageHint .imageQuality) }}
           {{ else if .imageWidth }}
-            {{- $img = $img.Resize (printf "%dx" .imageWidth) }}
+            {{- $img = $img.Resize (printf "%dx %s %s %s" .imageWidth .imageTargetFormat .imageHint .imageQuality) }}
           {{ else }}
-            {{- $img = $img.Resize "150x150" }}
+            {{- $img = $img.Resize (printf "150x150 %s %s %s" .imageTargetFormat .imageHint .imageQuality) }}
           {{- end }}
         {{- end }}
+        {{- $scaledImageHeight := div .imageHeight .imageScaleFactor -}}
+        {{- $scaledImageWidth := div .imageWidth .imageScaleFactor -}}
         <div id="home-info-logo">
           <img
             draggable="false"
             src="{{ $img.Permalink }}"
             alt="{{ .imageTitle | default "profile image" }}"
             title="{{ .imageTitle }}"
-            height="{{ .imageHeight | default 150 }}"
-            width="{{ .imageWidth | default 150 }}" />
+            height="{{ $scaledImageHeight | default 150 }}"
+            width="{{ $scaledImageWidth | default 150 }}" />
         </div>
       {{- else }}
         <div id="home-info-logo">
@@ -38,8 +40,8 @@
             src="{{ .imageUrl | absURL }}"
             alt="{{ .imageTitle | default "profile image" }}"
             title="{{ .imageTitle }}"
-            height="{{ .imageHeight | default 150 }}"
-            width="{{ .imageWidth | default 150 }}" />
+            height="{{ $scaledImageHeight | default 150 }}"
+            width="{{ $scaledImageWidth | default 150 }}" />
         </div>
       {{- end }}
     {{- end }}
