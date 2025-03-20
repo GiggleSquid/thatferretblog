@@ -8,7 +8,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W819HGZ7)
 
-A blog for my partner to provide information, sources, overviews, & opinions for all things ferret related. 
+A blog for my partner and I to provide information, sources, overviews, & opinions for all things ferret related. 
 
 ---
 
