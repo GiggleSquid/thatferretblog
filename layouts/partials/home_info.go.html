@@ -27,7 +27,7 @@
         <div id="home-info-logo">
           <img
             draggable="false"
-            src="{{ $img.Permalink }}"
+            src="{{ site.Params.cdnUrl -}} {{- $img.RelPermalink }}"
             alt="{{ .imageTitle | default "profile image" }}"
             title="{{ .imageTitle }}"
             height="{{ $scaledImageHeight | default 150 }}"
