@@ -88,6 +88,8 @@ params:
       url: "https://www.instagram.com/thatferretgram/profilecard"
     - name: reddit
       url: "https://www.reddit.com/r/thatferretsub/"
+    - name: kofi
+      url: "https://ko-fi.com/thatferretkofi"
 
   fuseOpts:
     isCaseSensitive: false
