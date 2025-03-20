@@ -45,6 +45,10 @@ em {
   text-align: center;
 }
 
+#home-info-logo img {
+  margin: auto;
+}
+
 .post-entry {
   transition: filter 300ms ease;
 }
