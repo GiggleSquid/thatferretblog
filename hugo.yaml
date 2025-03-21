@@ -59,6 +59,10 @@ params:
   disableThemeToggle: false
   cdnUrl: https://cdn.thatferret.blog
 
+  assets:
+    theme_color: "#1e1e2e"
+    msapplication_TileColor: "#1e1e2e"
+
   # home-info mode
   homeInfoParams:
     imageUrl: /images/thatferretblog-logo.png
