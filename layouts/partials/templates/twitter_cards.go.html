@@ -1,0 +1,57 @@
+{{- if .Params.cover.image -}}
+  <meta name="twitter:card" content="summary_large_image" />
+  {{- if (ne $.Params.cover.relative true) }}
+    <meta name="twitter:image" content="{{ .Params.cover.image | absURL }}" />
+  {{- else }}
+    <meta
+      name="twitter:image"
+      content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}" />
+  {{- end }}
+{{- else }}
+  {{- $images := partial "partials/templates/_funcs/get-page-images" . -}}
+  {{- with index $images 0 -}}
+    {{- $img := resources.Get .RelPermalink }}
+    {{- if $img }}
+      {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+      {{- if hugo.IsExtended -}}
+        {{- $processableFormats = $processableFormats | append "webp" -}}
+      {{- end -}}
+      {{- if in $processableFormats $img.MediaType.SubType }}
+        {{- $img = $img.Resize (printf "%dx%d webp q100" $img.Width $img.Height) }}
+      {{- end }}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:image"
+        content="{{ site.Params.cdnUrl -}} {{- $img.RelPermalink }}" />
+    {{- end }}
+  {{- else -}}
+    <meta name="twitter:card" content="summary" />
+  {{- end -}}
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta
+  name="twitter:description"
+  content="{{ with .Description }}
+    {{ . }}
+  {{ else }}
+    {{ if .IsPage }}
+      {{ .Summary }}
+    {{ else }}
+      {{ with site.Params.description }}{{ . }}{{ end }}
+    {{ end }}
+
+  {{ end -}}
+  " />
+
+{{- $twitterSite := "" }}
+{{- with site.Params.social }}
+  {{- if reflect.IsMap . }}
+    {{- with .twitter }}
+      {{- $content := . }}
+      {{- if not (strings.HasPrefix . "@") }}
+        {{- $content = printf "@%v" . }}
+      {{- end }}
+      <meta name="twitter:site" content="{{ $content }}" />
+    {{- end }}
+  {{- end }}
+{{- end }}

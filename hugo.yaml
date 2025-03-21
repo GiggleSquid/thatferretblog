@@ -50,6 +50,8 @@ params:
   title: That Ferret Blog
   description: "A blog for information, sources, overviews, & opinions for all things ferret related"
   keywords: [Blog, Ferret,Ferret blog, Mustelid, Mustelidae, Pet Care, Animal Care, Ferret care, Ferret welfare, Ferret as a pet, Pet ferret, Ferret food, Ferret pet, Ferret noises, Dooking, Ferret colors, Ferret colours]
+  images:
+  - /images/thatferretblog-logo.png
   author: Bunny
   DateFormat: "2 January, 2006"
   copyrightStartYear: 2025
