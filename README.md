@@ -23,5 +23,5 @@ Where apropriate, licenses and/or readmes for other components may be included a
 
 The post/page content of [That Ferret Blog](https://thatferret.blog/) © 2025 by [Bunny](https://linktr.ee/thatbunny) & [GiggleSquid](https://github.com/GiggleSquid) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[That Ferret Blog logo](assets/images/thatferretblog-logo.png) © 2025 All Rights Reserved [Bunny](https://linktr.ee/thatbunny) & [GiggleSquid](https://github.com/GiggleSquid).
+[That Ferret Blog logo](assets/images/thatferretblog-logo.png) & [favicons](/static) © 2025 All Rights Reserved [Bunny](https://linktr.ee/thatbunny) & [GiggleSquid](https://github.com/GiggleSquid).
 Designed by the wonderful [ilustraliine](https://www.instagram.com/ilustraliine)
