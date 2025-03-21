@@ -53,7 +53,7 @@ There are also some downsides to feeding whole prey, which swayed our decision. 
 
 ### Remains and cleanup
 
-As with any raw food, you should clean up the remains if not eaten. Thblog post here!](/posts/basic-ferret-behaviours)is prevents the food from becoming rotten and posing a bacteria risk. If the ferrets do not eat the whole carcass (or even if there are remains), you will have to throw the carcass away after around a few hours. This food randomly disappearing can confuse ferrets.
+As with any raw food, you should clean up the remains if not eaten. This prevents the food from becoming rotten and posing a bacteria risk. If the ferrets do not eat the whole carcass (or even if there are remains), you will have to throw the carcass away after around a few hours. This food randomly disappearing can confuse ferrets.
 
 Unlike grinds or other raw feeding methods, where the ferrets do not associate the food with PREY, with whole feeding, ferrets know that a prey animal is present and they are consuming it.
 
