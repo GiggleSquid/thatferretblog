@@ -60,6 +60,8 @@ params:
   cdnUrl: https://cdn.thatferret.blog
 
   assets:
+    # for cache busting
+    faviconVersionQuery: 2
     theme_color: "#1e1e2e"
     msapplication_TileColor: "#1e1e2e"
 

@@ -165,26 +165,26 @@
 {{ if eq hugo.Environment "development" -}}
   <link
     rel="shortcut icon"
-    href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}" />
+    href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
   <link
     rel="icon"
     type="image/png"
     sizes="96x96"
-    href="{{ site.Params.assets.favicon96x96 | default "favicon-96x96.png" | absURL }}" />
+    href="{{ site.Params.assets.favicon96x96 | default "favicon-96x96.png" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
   <link
     rel="icon"
     type="image/svg+xml"
-    href="{{ site.Params.assets.faviconSvg | default "favicon.svg" | absURL }}" />
+    href="{{ site.Params.assets.faviconSvg | default "favicon.svg" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
   <link
     rel="apple-touch-icon"
     sizes="180x180"
-    href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}" />
+    href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
   <link
     rel="manifest"
-    href="{{ site.Params.assets.siteWebmanifest | default "site.webmanifest" | absURL }}" />
+    href="{{ site.Params.assets.siteWebmanifest | default "site.webmanifest" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
   <link
     rel="mask-icon"
-    href="{{ site.Params.assets.safari_pinned_tab | default "favicon.svg" | absURL }}" />
+    href="{{ site.Params.assets.safari_pinned_tab | default "favicon.svg" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
   <meta name="apple-mobile-web-app-title" content="That Ferret Blog" />
   <meta
     name="theme-color"
@@ -198,26 +198,26 @@
   {{ if not site.Params.cdnUrl }}
     <link
       rel="shortcut icon"
-      href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}" />
+      href="{{ site.Params.assets.favicon | default "favicon.ico" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="icon"
       type="image/png"
       sizes="96x96"
-      href="{{ site.Params.assets.favicon96x96 | default "favicon-96x96.png" | absURL }}" />
+      href="{{ site.Params.assets.favicon96x96 | default "favicon-96x96.png" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="icon"
       type="image/svg+xml"
-      href="{{ site.Params.assets.faviconSvg | default "favicon.svg" | absURL }}" />
+      href="{{ site.Params.assets.faviconSvg | default "favicon.svg" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="apple-touch-icon"
       sizes="180x180"
-      href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}" />
+      href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="manifest"
-      href="{{ site.Params.assets.siteWebmanifest | default "site.webmanifest" | absURL }}" />
+      href="{{ site.Params.assets.siteWebmanifest | default "site.webmanifest" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="mask-icon"
-      href="{{ site.Params.assets.safari_pinned_tab | default "favicon.svg" | absURL }}" />
+      href="{{ site.Params.assets.safari_pinned_tab | default "favicon.svg" | absURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <meta name="apple-mobile-web-app-title" content="That Ferret Blog" />
     <meta
       name="theme-color"
@@ -229,26 +229,26 @@
   {{ if site.Params.cdnUrl }}
     <link
       rel="shortcut icon"
-      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.favicon | default "favicon.ico" | relURL }}" />
+      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.favicon | default "favicon.ico" | relURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="icon"
       type="image/png"
       sizes="96x96"
-      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.favicon96x96 | default "favicon-96x96.png" | relURL }}" />
+      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.favicon96x96 | default "favicon-96x96.png" | relURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="icon"
       type="image/svg+xml"
-      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.faviconSvg | default "favicon.svg" | relURL }}" />
+      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.faviconSvg | default "favicon.svg" | relURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="apple-touch-icon"
       sizes="180x180"
-      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | relURL }}" />
+      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | relURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="manifest"
-      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.siteWebmanifest | default "site.webmanifest" | relURL }}" />
+      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.siteWebmanifest | default "site.webmanifest" | relURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <link
       rel="mask-icon"
-      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.safari_pinned_tab | default "favicon.svg" | relURL }}" />
+      href="{{ site.Params.cdnUrl -}} {{- site.Params.assets.safari_pinned_tab | default "favicon.svg" | relURL -}} ?v= {{- site.Params.assets.faviconVersionQuery }}" />
     <meta name="apple-mobile-web-app-title" content="That Ferret Blog" />
     <meta
       name="theme-color"
