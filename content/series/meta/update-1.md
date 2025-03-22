@@ -6,7 +6,7 @@ title: "Update 1"
 
 showTOC: true
 ---
-Welcome to a new series of posts about meta (meaning self-referential) content for That Ferret blog. These posts are about this website itself, i.e. maintenance downtime, news, new features, changes, etc.
+Welcome to a new series of posts about meta (meaning self-referential) content for That Ferret Blog. These posts are about the website itself, i.e. maintenance downtime, news, new features, changes, etc.
 
 One thing to note is that the meta posts won't show up in the main feed on the home page or archive, so if you're interested in what's going on with the blog, you'll have to check in from time to time or use the RSS feed for the meta series.
 
@@ -30,14 +30,14 @@ You can find  ilustraliine here:<br>
 
 ### [We have a Ko-fi!](https://ko-fi.com/thatferretkofi)
 
-You've probably seen the fancy floating "support us" button. This button opens a little donation page where you can donate to support the running and maintenance of this blog.
+You've probably seen the fancy floating "support us" button. This button opens a little donation window where you can donate to support the running and maintenance of this blog.
 
 Fund us at [ko-fi.com/thatferretkofi](https://ko-fi.com/thatferretkofi)
 
-We're planning to open a shop on ko-fi too! There, you'll soon be able to purchase vinyl stickers of our logo, Boots, Toots, and the ferret pawprint (also designed by ilustraliine) and 'paw-traits' lovingly painted by our ferrets :).
+We're planning to open a shop on ko-fi too! There, you'll soon be able to purchase vinyl stickers of our logo, Boots, Toots, the ferret paw print (also designed by ilustraliine), and 'paw-traits' lovingly painted by our ferrets :).
 
 All proceeds are split 25% to 75%
-- 25% will go to [CFWRS](https://cfwrs.org.uk/), the ferrets society we are members and the newsletter editors for (and where we rehomed Boots & Toots from).
+- 25% will go to [CFWRS](https://cfwrs.org.uk/), the ferret society we are members of and the newsletter editors for (and where we rehomed Boots & Toots from).
 - 75% will go to site maintenance and reordering stock.
 
 We're currently operating as a not-for-profit, unincorporated association, and we are not a charity. This does not mean we cannot make a profit (although if we did, we'd pay corporation tax). CFWRS is also not a charity, and the 25% of proceeds we give is not tax deductible.
@@ -61,7 +61,7 @@ You can find our upcoming events at [cfwrs.org.uk/events](https://cfwrs.org.uk/e
 
 As mentioned above, we have a fantastic little Ko-fi widget! Just click it, and it opens a fancy little donation window. Look at it down there on the left — how cute!
 
-### Github
+### GitHub
 
 While not technically a new feature, we have a [public GitHub repo](https://github.com/GiggleSquid/thatferretblog) containing all the source code for That Ferret Blog. I'm very aware the crossover of people who read this blog and those who use Github may be small, but it's there if you're interested.
 
