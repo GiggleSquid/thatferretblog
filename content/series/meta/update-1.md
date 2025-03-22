@@ -44,7 +44,7 @@ We're currently operating as a not-for-profit, unincorporated association, and w
 
 We pay an optional platform fee of 5% to Ko-fi on all transactions (this allows us to use extra QoL features) and a 1.5% + 20p transaction fee to Stripe as our payments provider. (This is the reason for our minimums on Ko-fi.)
 
-You should not feel obligated to give us anything! The site will not disappear, and society will not fall to ruin if you don't want to or can't donate.
+You should not feel obligated to give us anything! The site will not disappear, and CFWRS will not fall to ruin if you don't want to or can't donate.
 
 If you do want to, please only donate or buy something if you can afford to!
 
