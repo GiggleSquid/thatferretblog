@@ -11,10 +11,8 @@
 </header>
 {{- end }}
 
-{{- $type := .Type }}
-{{- range $key, $value := .Data.Terms.Alphabetical }}
-{{- $name := .Name }}
-{{- with site.GetPage (printf "/%s/%s" $type $name) }}
+{{ $series := $.Site.GetPage "series" }}
+{{ range $series.Pages.ByWeight -}}
 <article class="post-entry tag-entry">
   <header class="entry-header">
     <h2 class="entry-hint-parent">
@@ -27,7 +25,5 @@
   <a class="entry-link" aria-label="series link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{ end }}
-{{ end }}
 
 {{ end }}
-
