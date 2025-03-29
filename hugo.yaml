@@ -75,8 +75,8 @@ params:
     imageHint: drawing
     imageQuality: q100
     imageScaleFactor: 1.6
-    Title: <span style="color:var(--theme)">For all things ferret</span>
-    Content: "This blog aims to provide information, sources, overviews, & opinions for all things ferret related."
+    Title: For all things ferret
+    Content: 'A blog for information, sources, overviews, & opinions for all things ferret related'
 
   ShowReadingTime: true
   ShowShareButtons: true
