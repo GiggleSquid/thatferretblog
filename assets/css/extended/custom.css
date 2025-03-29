@@ -92,12 +92,19 @@ a:hover,
   border-bottom: 1px solid var(--theme);
 }
 
+.footer hr {
+  color: var(--code-block-bg);
+  margin: 16px 0;
+}
+
+@media (max-width: 406px) {
+  .footer #footer-legal-hide-pipe {
+    visibility: hidden;
+  }
+}
+
 .terms-tags a {
   transition: transform .1s, color 300ms ease, filter 300ms ease;
-}
-
-}
-
 }
 
 .post-content dt {
