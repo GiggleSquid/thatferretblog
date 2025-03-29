@@ -1,0 +1,180 @@
+/*
+Minor third at 18px
+
+h1 53.75px
+h2 44.79px
+h3 37.32px
+h4 31.1px
+h5 25.92px
+h6 21.6px
+p 18px
+small 15px
+extra-small 12.5px
+
+REM adjusted for 16px root
+
+h1 3.359375rem
+h2 2.799375rem
+h3 2.3325rem
+h4 1.94375rem
+h5 1.62rem
+h6 1.35rem
+p 1.125rem
+small 0.9375rem
+extra-small 0.78125rem
+
+*/
+
+:root {
+  --font-size-h1: 3.359375rem;
+  --font-size-h2: 2.799375rem;
+  --font-size-h3: 2.3325rem;
+  --font-size-h4: 1.94375rem;
+  --font-size-h5: 1.62rem;
+  --font-size-h6: 1.35rem;
+  --font-size-p: 1.125rem;
+  --font-size-small: 0.9375rem;
+  --font-size-extra-small: 0.78125rem;
+}
+
+body {
+  font-size: var(--font-size-p);
+}
+
+/* 404.css */
+.not-found {
+  font-size: 10rem;
+}
+
+/* archive.css */
+.archive-posts {
+  font-size: var(--font-size-p);
+}
+
+.archive-count,
+.archive-meta {
+  font-size: var(--font-size-small);
+}
+
+/* footer.css */
+.footer,
+.top-link {
+  font-size: var(--font-size-small);
+}
+
+/* header.css */
+.logo a {
+  font-size: var(--font-size-h5);
+}
+
+button#theme-toggle {
+  font-size: 26px;
+}
+
+#menu a {
+  font-size: var(--font-size-p);
+}
+
+.lang-switch a {
+  font-size: var(--font-size-p);
+}
+
+/* main.css */
+.page-header h1 {
+  font-size: var(--font-size-h1);
+}
+
+.pagination a {
+  font-size: var(--font-size-extra-small);
+}
+
+.copy-code {
+  font-size: var(--font-size-small);
+}
+
+/* post-entry.css */
+.first-entry .entry-header h1 {
+  font-size: var(--font-size-h2);
+}
+
+.first-entry .entry-content {
+  font-size: var(--font-size-p);
+}
+
+.first-entry .entry-footer {
+  font-size: var(--font-size-small);
+}
+
+.entry-header h2 {
+  font-size: var(--font-size-h5);
+}
+
+.entry-content {
+  font-size: var(--font-size-small);
+}
+
+.entry-footer {
+  font-size: var(--font-size-extra-small);
+}
+
+.entry-cover {
+  font-size: var(--font-size-small);
+}
+
+/* post-single.css */
+.post-title {
+  font-size: var(--font-size-h2);
+}
+
+.post-meta,
+.breadcrumbs {
+  font-size: var(--font-size-small);
+}
+
+.breadcrumbs a {
+  font-size: var(--font-size-small);
+}
+
+.post-content h1 {
+  font-size: var(--font-size-h2);
+}
+
+.post-content h2 {
+  font-size: var(--font-size-h3);
+}
+
+.post-content h3 {
+  font-size: var(--font-size-h4);
+}
+
+.post-content h4 {
+  font-size: var(--font-size-h5);
+}
+
+.post-content h5 {
+  font-size: var(--font-size-h6);
+}
+
+.post-content h6 {
+  font-size: var(--font-size-h6);
+}
+
+.post-content code {
+  font-size: 0.78em;
+}
+
+.post-content figure>figcaption {
+  font-size: var(--font-size-p);
+}
+
+.post-content figure>figcaption>p {
+  font-size: var(--font-size-small);
+}
+
+.post-tags a {
+  font-size: var(--font-size-small);
+}
+
+.paginav .title {
+  font-size: var(--font-size-extra-small);
+}
