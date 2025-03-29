@@ -64,6 +64,10 @@ body {
   filter: brightness(0.9);
 }
 
+.toc {
+  background: var(--entry);
+}
+
 .pagination a {
   color: var(--primary);
   background: var(--entry)
