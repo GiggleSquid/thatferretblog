@@ -1,16 +1,7 @@
 @font-face {
-  font-family: "noto-sans";
+  font-family: "atkinson-hyperlegible-next";
   src:
-    url("https://cdn.thatferret.blog/fonts/NotoSans-VF.ttf") format("truetype");
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "noto-sans-italic";
-  src:
-    url("https://cdn.thatferret.blog/fonts/NotoSans-Italic-VF.ttf") format("truetype");
-  font-style: italic;
+    url("https://cdn.thatferret.blog/fonts/AtkinsonHyperlegibleNextVF-Variable.woff2") format("woff2");
   font-display: swap;
 }
 
@@ -23,12 +14,10 @@
 }
 
 body {
-  font-family: "noto-sans", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+  font-family: "atkinson-hyperlegible-next", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
   background: var(--code-bg);
 }
 
-em {
-  font-family: "noto-sans-italic", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
 }
 
 .nav {
@@ -47,6 +36,16 @@ em {
 
 .home-info {
   text-align: center;
+}
+
+.home-info .entry-header h1 {
+  color: var(--theme);
+  font-family: "amatic-sc", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif
+}
+
+.home-info .entry-content a {
+  box-shadow: 0 1px;
+  box-decoration-break: clone;
 }
 
 #home-info-logo img {
