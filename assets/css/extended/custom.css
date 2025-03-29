@@ -18,8 +18,6 @@ body {
   background: var(--code-bg);
 }
 
-}
-
 .nav {
   justify-content: space-evenly;
 }
