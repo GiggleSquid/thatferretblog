@@ -51,6 +51,6 @@ And if it wasn't for the CFWRS, we wouldn't have adopted our beautiful carpet sh
 
 Where will our rescue journey lead next? Who knows? Maybe B&T will soon have more ferrety friends.
 
-If you'd like more information on CFWRS then the website is in my Linktree *LINK HERE* We hold such high praise and highly recommend them.
+If you'd like more information on CFWRS then the website is in my [Linktree](https://linktr.ee/thatbunny). We hold such high praise and highly recommend them.
 
-Boots & Toots also have a Ferret Instagram which can be found in my Linktree. To follow their ferrety journey.
+Boots & Toots also have a Ferret Instagram which can be found in my [Linktree](https://linktr.ee/thatbunny). To follow their ferrety journey.
