@@ -118,6 +118,6 @@ The pros of rescuing far outweigh the cons in my opinion. Personally, rescuing i
 
 ---
 
-If you'd like to read about my personal experience rescuing ferrets. You can go to my post ~ *coming soon*.
+If you'd like to read about my personal experience rescuing ferrets. You can go to [my post](/posts/our-personal-experience-rescuing-ferrets).
 
 If you'd like to read details about animal sales legislation, licensing, and procedures within the UK. You can go to Jack's post ~ *coming soon*.
