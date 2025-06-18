@@ -1,4 +1,6 @@
 ---
+title: "Disclaimer"
+
 ShowReadingTime: false
 ShowShareButtons: false
 ShowPostNavLinks: false
