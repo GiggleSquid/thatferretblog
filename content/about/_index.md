@@ -11,12 +11,24 @@ ShowRssButtonInSectionTermList: false
 hidemeta: true
 hideSummary: true
 ---
-Hi, my names Bunny (from the UK). I have always had a passion for animals, animal care & welfare. My partner and I have rescued an array of animals including rats, guinea pigs, rabbits, mice, bearded dragons, snakes, dogs and ferrets. However, I have always had a special interest in ferrets. We currently own 2 rescues - Boots & Toots, who were adopted from CFWRS (a ferret rescue).
+## Welcome to That Ferret Blog!
 
-Our special interest in mustelids has lead us to heavily research ferrets and form our own opinions based on our findings (and personal experiences). This blog will be a little bit of everything.
+This blog provides information, sources, overviews, and personal opinions about ferret welfare, husbandry, and diet (specifically raw feeding). As well as personal stories and updates on our own ferrets.
 
-We are also studying a level 3 qualification in practical animal care & managment which involves research around pine martens and their reintroduction in various conservation projects througout the UK.
+Owned by two ferret enthusiasts. Our special interest in mustelids has led us to heavily research ferrets and form our own opinions based on our findings (and personal experiences).
 
-For further research and ferret related things, please visit [my linktree](https://linktr.ee/thatbunny), there you will find links to sites such as the 'Hollistic Ferret Forum' and our ferrets personal instagram! 
+We aim to educate and inspire ferret owners with a blog that provides a little bit of everything ferret-related!
 
--- Bunny ฅ՞•ﻌ•՞ฅ
+A little bit about us:
+- We are currently studying a Level 3 Qualification in Practical Animal Care & Management, which also involves research on pine martens and their reintroduction in various conservation projects throughout the UK.
+- We are members of a Ferret Welfare Rescue & Society (CFWRS). We participate in various shows and events, raising money for the rescue, writing newsletters, and providing fostering space as needed.
+- Jack (the main raw food enthusiast) hopes to go into studying animal nutrition with a keen emphasis on mustelids.
+
+A little bit about our ferrets:
+- We currently have 4 wonderful ferrets. All of them were either adopted or are permanent fosters from Cambridgeshire Ferret Welfare & Rescue Society.
+- Our ferrets are Boots, Toots, Snoot & Foot.
+- With room to take in more ferret residents soon.
+
+For further research and ferret-related things, please visit my [linktree](https://linktr.ee/thatbunny); there you will find links to sites such as the Holistic Ferret Forum, the website for CFWRS and our ferrets' personal Instagram!
+
+-- Cassie (Bunny) & Jack (Gigglesquid).
