@@ -48,7 +48,7 @@ taxonomies:
 params:
   env: production
   title: That Ferret Blog
-  description: "A blog for information, sources, overviews, & opinions for all things ferret related"
+  description: "A blog for information, sources, overviews, and personal opinions about ferret welfare, husbandry, and diet. As well as personal stories and updates on our own ferrets."
   keywords: [Blog, Ferret,Ferret blog, Mustelid, Mustelidae, Pet Care, Animal Care, Ferret care, Ferret welfare, Ferret as a pet, Pet ferret, Ferret food, Ferret pet, Ferret noises, Dooking, Ferret colors, Ferret colours]
   images:
   - /images/thatferretblog-logo.png
@@ -76,7 +76,7 @@ params:
     imageQuality: q100
     imageScaleFactor: 1.6
     Title: For all things ferret
-    Content: 'A blog for information, sources, overviews, & opinions for all things ferret related'
+    Content: 'A blog for information, sources, overviews, and personal opinions about ferret welfare, husbandry, and diet. As well as personal stories and updates on our own ferrets.'
 
   ShowReadingTime: true
   ShowShareButtons: true
