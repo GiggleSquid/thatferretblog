@@ -11,8 +11,6 @@ ShowRssButtonInSectionTermList: false
 hidemeta: true
 hideSummary: true
 ---
-## Welcome to That Ferret Blog!
-
 This blog provides information, sources, overviews, and personal opinions about ferret welfare, husbandry, and diet (specifically raw feeding). As well as personal stories and updates on our own ferrets.
 
 Owned by two ferret enthusiasts. Our special interest in mustelids has led us to heavily research ferrets and form our own opinions based on our findings (and personal experiences).

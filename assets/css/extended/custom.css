@@ -36,8 +36,7 @@ body {
   text-align: center;
 }
 
-.home-info .entry-header h1,
-#welcome-to-that-ferret-blog {
+.home-info .entry-header h1 {
   color: var(--theme);
   font-family: "amatic-sc", -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif
 }
