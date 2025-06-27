@@ -1,5 +1,12 @@
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+<!-- Cookie banner & script blocker -->
+<script
+  type="text/javascript"
+  src="https://app.termly.io/resource-blocker/769cd657-58a1-49bd-bbb6-526b5c045b90?autoBlock=on"></script>
+
 <!-- Umami analytics script -->
-<script defer src="https://thatferret.blog/umami_analytics.js"
+<script
+  defer
+  src="https://thatferret.blog/umami_analytics.js"
   data-website-id="4d2fd902-ee8d-4ce5-9580-d2e2409c8055"></script>
 {{- end -}}
