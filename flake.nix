@@ -20,7 +20,7 @@
           mkShell {
             buildInputs = [
               hugo
-              nodejs_22
+              nodejs_24
             ];
           };
       }
