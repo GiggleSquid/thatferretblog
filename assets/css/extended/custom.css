@@ -8,8 +8,9 @@
 @font-face {
   font-family: "amatic-sc";
   src:
-    url("https://cdn.thatferret.blog/fonts/AmaticSC-Bold.ttf") format("truetype");
-  font-style: bold;
+    url("https://cdn.thatferret.blog/fonts/AmaticSC-Bold.woff2") format(woff2);
+  font-style: normal;
+  font-weight: bold;
   font-display: swap;
 }
 
