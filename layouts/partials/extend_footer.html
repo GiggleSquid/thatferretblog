@@ -8,7 +8,7 @@
     crossorigin="anonymous"
     type="module"
     {{ if eq hugo.Environment "production" -}}
-      src="{{ site.Params.cdnUrl -}} {{- $lite_yt.RelPermalink }}"
+      src="{{ $lite_yt.Permalink }}"
     {{- else -}}
       src="{{ $lite_yt.RelPermalink }}"
     {{- end }}
@@ -20,7 +20,7 @@
     crossorigin="anonymous"
     type="module"
     {{ if eq hugo.Environment "production" -}}
-      src="{{ site.Params.cdnUrl -}} {{- $lite_yt.RelPermalink }}"
+      src="{{ $lite_yt.Permalink }}"
     {{- else -}}
       src="{{ $lite_yt.RelPermalink }}"
     {{- end }}></script>
@@ -49,7 +49,7 @@
     <script>
       kofiWidgetOverlay.draw('thatferretkofi', {
         'type': 'floating-chat',
-        'floating-chat.stylesheets': '["{{ site.Params.cdnUrl -}} {{- $stylesheet.RelPermalink }}"]',
+        'floating-chat.stylesheets': '["{{- $stylesheet.RelPermalink }}"]',
         'floating-chat.donateButton.text': 'Support us',
         'floating-chat.donateButton.background-color': 'var(--theme)',
         'floating-chat.donateButton.text-color': 'var(--entry)'
@@ -72,7 +72,7 @@
     <script>
       kofiWidgetOverlay.draw('thatferretkofi', {
         'type': 'floating-chat',
-        'floating-chat.stylesheets': '["{{ site.Params.cdnUrl -}} {{- $stylesheet.RelPermalink }}"]',
+        'floating-chat.stylesheets': '["{{ $stylesheet.RelPermalink }}"]',
         'floating-chat.donateButton.text': 'Support us',
         'floating-chat.donateButton.background-color': 'var(--theme)',
         'floating-chat.donateButton.text-color': 'var(--entry)'

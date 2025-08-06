@@ -57,7 +57,6 @@ params:
   copyrightStartYear: 2025
   defaultTheme: dark
   disableThemeToggle: false
-  cdnUrl: https://cdn.thatferret.blog
 
   assets:
     # for cache busting

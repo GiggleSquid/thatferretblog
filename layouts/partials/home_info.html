@@ -24,19 +24,6 @@
         {{- end }}
         {{- $scaledImageHeight := div .imageHeight .imageScaleFactor -}}
         {{- $scaledImageWidth := div .imageWidth .imageScaleFactor -}}
-        {{ if eq hugo.Environment "production" -}}
-          <div id="home-info-logo">
-            <img
-              draggable="false"
-              rel="preload"
-              fetchpriority="high"
-              src="{{ site.Params.cdnUrl -}} {{- $img.RelPermalink }}"
-              alt="{{ .imageTitle | default "profile image" }}"
-              title="{{ .imageTitle }}"
-              height="{{ $scaledImageHeight | default 150 }}"
-              width="{{ $scaledImageWidth | default 150 }}" />
-          </div>
-        {{- else }}
           <div id="home-info-logo">
             <img
               draggable="false"
@@ -48,7 +35,6 @@
               height="{{ $scaledImageHeight | default 150 }}"
               width="{{ $scaledImageWidth | default 150 }}" />
           </div>
-        {{- end }}
       {{- else }}
         <div id="home-info-logo">
           <img
