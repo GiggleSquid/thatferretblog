@@ -3,32 +3,30 @@
 
 {{- if not site.Params.assets.disableFingerprinting }}
   {{- $lite_yt := (slice $lite_yt) | resources.Concat "assets/js/lite-youtube.js" | fingerprint }}
-  <script
-    defer
-    crossorigin="anonymous"
-    type="module"
-    {{ if eq hugo.Environment "production" -}}
-      src="{{ $lite_yt.Permalink }}"
-    {{- else -}}
-      src="{{ $lite_yt.RelPermalink }}"
-    {{- end }}
-    integrity="{{ $lite_yt.Data.Integrity }}"></script>
+  <script type="text/plain" data-categories="performance">
+    var script = document.createElement('script');
+    script.defer = true;
+    script.crossorigin = "anonymous";
+    script.type = "module";
+    script.src = "{{ $lite_yt.RelPermalink }}";
+    script.integrity="{{ $lite_yt.Data.Integrity }}";
+    document.getElementsByTagName('body')[0].appendChild(script);
+  </script>
 {{- else }}
   {{- $lite_yt := (slice $lite_yt) | resources.Concat "assets/js/lite-youtube.js" }}
-  <script
-    defer
-    crossorigin="anonymous"
-    type="module"
-    {{ if eq hugo.Environment "production" -}}
-      src="{{ $lite_yt.Permalink }}"
-    {{- else -}}
-      src="{{ $lite_yt.RelPermalink }}"
-    {{- end }}></script>
+  <script type="text/plain" data-categories="performance">
+    var script = document.createElement('script');
+    script.defer = true;
+    script.crossorigin = "anonymous";
+    script.type = "module";
+    script.src = "{{ $lite_yt.RelPermalink }}";
+    document.getElementsByTagName('body')[0].appendChild(script);
+  </script>
 {{- end }}
 
 
 <!-- Ko-fi floating donation button -->
-<script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
+<script type="text/plain" data-categories="performance" src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     document.querySelector(
