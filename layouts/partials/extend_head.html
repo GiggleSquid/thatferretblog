@@ -1,12 +1,12 @@
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 <!-- Cookie banner & script blocker -->
-<script
-  type="text/javascript"
+<script type="text/javascript"
   src="https://app.termly.io/resource-blocker/769cd657-58a1-49bd-bbb6-526b5c045b90?autoBlock=on"></script>
 
 <!-- Umami analytics script -->
-<script
-  defer
-  src="https://umami.gigglesquid.tech/umami_analytics.js"
+<script defer src="https://umami.gigglesquid.tech/umami_analytics.js"
   data-website-id="c4884b42-c621-4ab9-90e7-b84c270dc08e"></script>
 {{- end -}}
+
+<link rel="preload" href="/fonts/AmaticSC-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext[wght].woff2" as="font" type="font/woff2" crossorigin>
