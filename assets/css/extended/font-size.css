@@ -57,9 +57,12 @@ body {
 }
 
 /* footer.css */
-.footer,
-.top-link {
+.footer {
   font-size: var(--font-size-small);
+}
+
+.top-link {
+  font-size: var(--font-size-extra-small);
 }
 
 /* header.css */
