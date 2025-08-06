@@ -88,3 +88,56 @@
     </script>
   {{- end }}
 {{- end }}
+
+<script>
+  function onClickIntent(element, hoverTime, callback) {
+    let timer;
+
+    function disable() {
+      element.removeEventListener('mouseenter', start);
+      element.removeEventListener('mouseleave', cancel);
+    }
+
+    function fire() {
+      callback(element);
+      disable();
+    }
+
+    function cancel() {
+      clearTimeout(timer);
+      timer = null;
+    }
+
+    function start() {
+      timer = setTimeout(fire, hoverTime);
+    }
+
+    element.addEventListener('mouseenter', start);
+    element.addEventListener('mouseleave', cancel);
+  }
+
+  const existingHints = [];
+
+  function createHintHooks(element) {
+    let hint;
+
+    function createPrefetchHint() {
+      let href = element.getAttribute('href')
+      if (!existingHints.includes(href)) {
+        hint = document.createElement('link');
+        hint.setAttribute('rel', 'prefetch');
+        hint.setAttribute('href', href);
+        document.head.appendChild(hint);
+        existingHints.push(href);
+      }
+    }
+
+    const isInternalLink = element.href.includes(window.location.host);
+
+    if (isInternalLink) {
+      onClickIntent(element, 200, createPrefetchHint);
+    }
+  }
+
+  document.querySelectorAll('a').forEach(createHintHooks);
+</script>
