@@ -1,10 +1,10 @@
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 <!-- Cookie banner & script blocker -->
-<script type="text/javascript" async
-  src="https://app.termly.io/resource-blocker/769cd657-58a1-49bd-bbb6-526b5c045b90?autoBlock=off"></script>
+<script type="text/javascript"
+  src="https://app.termly.io/resource-blocker/769cd657-58a1-49bd-bbb6-526b5c045b90?autoBlock=on"></script>
 
 <!-- Umami analytics script -->
-<script type="text/plain" data-categories="analytics" defer src="https://umami.gigglesquid.tech/umami_analytics.js"
+<script defer src="https://umami.gigglesquid.tech/umami_analytics.js"
   data-website-id="c4884b42-c621-4ab9-90e7-b84c270dc08e"></script>
 {{- end -}}
 
