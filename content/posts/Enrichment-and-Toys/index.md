@@ -3,8 +3,6 @@ date: "2025-08-12T23:08:56+01:00"
 title: "Enrichment & Toys"
 tags: ["enrichment", "well-being"]
 
-draft: true
-
 showtoc: true
 
 keywords: [ "ferret enrichment", "ferret toys", "ferret play", "safe ferret toys", "unsafe ferret toys" ]
