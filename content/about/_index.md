@@ -23,10 +23,10 @@ A little bit about us:
 - Jack (the main raw food enthusiast) hopes to go into studying animal nutrition with a keen emphasis on mustelids.
 
 A little bit about our ferrets:
-- We currently have 4 wonderful ferrets. All of them were either adopted or are permanent fosters from Cambridgeshire Ferret Welfare & Rescue Society.
-- Our ferrets are Boots, Toots, Snoot & Foot.
-- With room to take in more ferret residents soon.
+- We currently have 8 wonderful ferrets. All of them were either adopted or are permanent fosters from Cambridgeshire Ferret Welfare & Rescue Society.
+- Our ferrets are Boots, Toots, Loot, Newt, Fruit, Flute, Snoot, & Foot.
+- With hopes in the future to be able to foster more ferrets for CFWRS.
 
 For further research and ferret-related things, please visit my [linktree](https://linktr.ee/thatbunny); there you will find links to sites such as the Holistic Ferret Forum, the website for CFWRS and our ferrets' personal Instagram!
 
--- Cassie (Bunny) & Jack (Gigglesquid).
+-- Cassie (Bunny) & Jack (GiggleSquid).
